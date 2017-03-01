@@ -1,0 +1,8 @@
+c:\users\rlz\documents\visual studio 2010\Projects\workflow\workflow\bin\Debug\workflow.exe
+c:\users\rlz\documents\visual studio 2010\Projects\workflow\workflow\bin\Debug\workflow.pdb
+c:\users\rlz\documents\visual studio 2010\Projects\workflow\workflow\obj\x86\Debug\workflow.Form1.resources
+c:\users\rlz\documents\visual studio 2010\Projects\workflow\workflow\obj\x86\Debug\workflow.Properties.Resources.resources
+c:\users\rlz\documents\visual studio 2010\Projects\workflow\workflow\obj\x86\Debug\workflow.csproj.GenerateResource.Cache
+c:\users\rlz\documents\visual studio 2010\Projects\workflow\workflow\obj\x86\Debug\workflow.exe
+c:\users\rlz\documents\visual studio 2010\Projects\workflow\workflow\obj\x86\Debug\workflow.pdb
+C:\Users\Rlz\documents\visual studio 2010\Projects\workflow\workflow\obj\x86\Debug\workflow.csprojResolveAssemblyReference.cache
